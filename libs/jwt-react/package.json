@@ -24,7 +24,7 @@
 	},
 	"dependencies": {
 		"jotai": "^2.0.3",
-		"nanoid": "^4.0.2"
+		"nanoid": "^5.0.9"
 	},
 	"peerDependencies": {
 		"react": "^18"

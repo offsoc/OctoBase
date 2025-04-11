@@ -22,7 +22,7 @@
 		}
 	},
 	"dependencies": {
-		"nanoid": "^4.0.2",
+		"nanoid": "^5.0.9",
 		"prettier": "^3.0.3",
 		"react": "^18.2.0",
 		"react-dom": "^18.2.0"
@@ -36,7 +36,7 @@
 		"terser": "^5.19.4",
 		"turbo": "^1.10.13",
 		"typescript": "^5.2.2",
-		"vite": "^4.4.9",
+		"vite": "^4.5.12",
 		"vite-plugin-html": "^3.2.0",
 		"vite-plugin-singlefile": "^0.13.5"
 	}
